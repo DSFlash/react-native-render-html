@@ -62,7 +62,7 @@
     "react-native-svg-transformer": "^0.14.3",
     "react-native-tab-view": "^3.0.1",
     "react-native-web": "0.17.1",
-    "react-native-webview": "11.13.0",
+    "react-native-webview-decidepolicy-changes": "0.1.2",
     "react-syntax-highlighter": "^15.4.3",
     "scheduler": "^0.20.2",
     "urijs": "*",
